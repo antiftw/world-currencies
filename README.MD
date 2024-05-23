@@ -10,7 +10,7 @@
 
 ## About
 
-While trying to setup a module that required handling of currency codes, but had trouble finding a complete up-to-date list that was also easily downloadable without having to get an account or pay somewhere. So I decided to roll my own. For now its just 3 datapoints (name, code and symbol), but if there's a good use case for other fields they can always be added in the future.
+While trying to setup a module that required handling of currency codes, but had trouble finding a complete up-to-date list that was also easily downloadable without having to get an account or pay somewhere. So I decided to roll my own. For now its just these datapoints (displayname, name, code and symbol), but if there's a good use case for other fields they can always be added in the future.
 
 ## Usage 
 
