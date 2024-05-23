@@ -16,7 +16,7 @@
 {"currency-code":"BHD","type":"cur","name":"BahrainiDinar","short-name":"BH Dinar","display-name":"Bahraini Dinar","symbol":".د.ب"},
 {"currency-code":"BIF","type":"cur","name":"BurundiFranc","short-name":"BI Franc","display-name":"Burundi Franc","symbol":"FBu"},
 {"currency-code":"BMD","type":"cur","name":"BermudaDollar","short-name":"BM Dollar","display-name":"Bermuda Dollar","symbol":"$"},
-{"currency-code":"BND","type":"cur","name":"BruneiDollar","short-name":"BR Dollar","display-name":"BruneiD ollar","symbol":"B$"},
+{"currency-code":"BND","type":"cur","name":"BruneiDollar","short-name":"BR Dollar","display-name":"Brunei Dollar","symbol":"B$"},
 {"currency-code":"BOB","type":"cur","name":"Boliviano","short-name":"Boliviano","display-name":"Boliviano","symbol":"Bs"},
 {"currency-code":"BOV","type":"cur","name":"Mvdol","short-name":"Mvdol","display-name":"MVDOL - Unit of Currency","symbol":"$b"},
 {"currency-code":"BRL","type":"cur","name":"BrazilianReal","short-name":"Real","display-name":"Brazilian Real","symbol":"R$"},
