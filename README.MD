@@ -17,9 +17,9 @@ Since things will inadvertedly change - likely without me noticing because it's 
 
 ## Sources
 
-- (FOREX Live)[https://www.foreignexchangelive.com/currency-codes-symbols/] - for a  list of currency codes
-- Other repositories such as (this one)[https://github.com/mhs/world-currencies] - for some of the missing codes.
-- (Wikipedia)[https://wikipedia.org] as a way to verify codes and symbols as well as look up countries that match the codes.
+- [https://www.foreignexchangelive.com/currency-codes-symbols/](FOREX Live) - for a  list of currency codes
+- Other repositories such as [https://github.com/mhs/world-currencies](this one) - for some of the missing codes.
+- [https://wikipedia.org](Wikipedia) as a way to verify codes and symbols as well as look up countries that match the codes.
 
 ## License
 
