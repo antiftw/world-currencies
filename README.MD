@@ -3,7 +3,6 @@
 ## Contents
 
 - [About](#about)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [Sources](#sources)
 - [License](#license)
