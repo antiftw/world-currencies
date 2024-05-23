@@ -57,4 +57,4 @@ Note: When creating PR with new data-fields, please provide data filled in for a
 
 ## License
 
-MIT. Feel free to use this wherever. See `LICENSE` for more details.
+MIT. Feel free to use this wherever. See [`LICENSE`](https://github.com/antiftw/world-currencies/blob/main/LICENSE) for more details.
