@@ -18,7 +18,7 @@
 {"currency-code":"BMD","type":"cur","name":"BermudaDollar","short-name":"BM Dollar","display-name":"Bermuda Dollar","symbol":"$"},
 {"currency-code":"BND","type":"cur","name":"BruneiDollar","short-name":"BR Dollar","display-name":"Brunei Dollar","symbol":"B$"},
 {"currency-code":"BOB","type":"cur","name":"Boliviano","short-name":"Boliviano","display-name":"Boliviano","symbol":"Bs"},
-{"currency-code":"BOV","type":"cur","name":"Mvdol","short-name":"Mvdol","display-name":"MVDOL - Unit of Currency","symbol":"$b"},
+{"currency-code":"BOV","type":"uoa","name":"MVDOL","short-name":"MVDOL","display-name":"MVDOL - Unit of Account","symbol":"$b"},
 {"currency-code":"BRL","type":"cur","name":"BrazilianReal","short-name":"Real","display-name":"Brazilian Real","symbol":"R$"},
 {"currency-code":"BSD","type":"cur","name":"BahamianDollar","short-name":"BS Dollar","display-name":"Bahamian Dollar","symbol":"$"},
 {"currency-code":"BTN","type":"cur","name":"BhutaneseNgultrum","short-name":"Ngultrum","display-name":"Bhutanese Ngultrum","symbol":"Nu."},
