@@ -14,9 +14,13 @@ While trying to setup a module that required handling of currency codes, but had
 
 - `currency-code` : the ISO-4217 Currency code
 - `symbol`        : a symbolic (UTF-8) representation of the currency if I was able to find one, the ISO code again otherwise.
-- `display-name` : Can be used to display the currency in a dropdown.
-- `short-name`   : Same but shorter.
-- `name`         : The name only with letters and w/o spaces.
+- `display-name`  : Can be used to display the currency in a dropdown.
+- `short-name`    : Same but shorter.
+- `name`          : The name only with letters and w/o spaces.
+- `numeric-code`  : ISO-4217 Numeric code (usually the same to ISO 3166-1 numeric code for the corresponding country)
+- `digits`        : Number of digits after the decimal separator 
+  - I got this from (https://en.wikipedia.org/wiki/ISO_4217#cite_ref-MinorUnits_6-1)[this] Wiki. 
+  - It has numbers and dots (`.`). The dot means something like 'not applicable'. I just treat them like 0, but I thought I'd retain the information
 - `type`         : Because there are some 'not-a-currency currencies', a type to filter them:
    - `cur`: Actual currency traded on forex and used by country.
    - `xch`: Exchange Codes - used to trade (e.g. Silver/Gold/Platinum/Palladium).
